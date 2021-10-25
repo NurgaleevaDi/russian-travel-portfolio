@@ -1,0 +1,25 @@
+.footer{
+  margin: 0 auto;
+  margin-top: 64px;
+  margin-right: 118px;
+  padding-bottom: 24px;
+  margin-left: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+@media screen and (min-width: 768px) {
+  .footer{
+    margin: auto;
+    margin-top: 88px;
+    flex-direction: row;
+    width: calc(100% - 48px);
+  }
+}
+@media screen and (min-width: 1024px) {
+  .footer{
+    margin-top: 92px;
+    flex-direction: row;
+    width: calc(100% - 96px);
+  }
+}
