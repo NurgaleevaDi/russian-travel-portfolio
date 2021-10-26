@@ -20,5 +20,5 @@
   font-weight: 700;
   font-display: swap;
   src: url("../../russian-travel/fonts/Inter/Inter-Bold.woff2") format("woff2"),
-       url("../../russian-travel/fonts/Inter/Inter-Black.woff") format("woff");
+       url("../../russian-travel/fonts/Inter/Inter-Bold.woff") format("woff");
 }
