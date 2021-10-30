@@ -23,3 +23,10 @@
     width: calc(100% - 96px);
   }
 }
+@media screen and (min-width: 1280px) {
+  .footer{
+    margin-top: 92px;
+    flex-direction: row;
+    max-width: 1184px;
+  }
+}

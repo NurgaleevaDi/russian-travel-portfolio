@@ -1,5 +1,6 @@
 .place__paragraph{
   margin: 0 auto;
+  width: calc(100% - 32px);
   font-family: Inter, 'Arial', sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -9,6 +10,12 @@
 }
 .place__paragraph:nth-child(2n) {
   margin-top: 25px;
+}
+@media screen and (min-width: 768px){
+  .place__paragraph{
+    margin: 0;
+    width: 100%;
+  }
 }
 @media screen and (min-width: 1024px){
   .place__paragraph{
