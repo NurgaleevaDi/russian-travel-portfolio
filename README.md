@@ -13,7 +13,8 @@
 * организация файлов по БЭМ
 
 ### Ссылки
-<div>
+
 [Проект](https://nurgaleevadi.github.io/russian-travel-portfolio/)
+
 [Макет](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0&t=l4JZ8a2Tn30YeshM-0)
-</div>
+
